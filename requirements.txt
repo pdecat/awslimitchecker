@@ -1,0 +1,1 @@
+-e git+https://github.com/jantman/pytest.git@pr1121#egg=pytest
